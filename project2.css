@@ -1,0 +1,48 @@
+body {
+    width: 900px;
+    height: 600px;
+}
+.Paris {
+    font-size: 25px;
+    position: relative;
+    top: 120px;
+    left: 680px;
+}
+
+.box {
+    margin-inline: auto;
+    margin-top: 200px;
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(246, 174, 174);
+    border-radius: 5px;
+    color: red;
+    text-align: center;
+    padding: 10px 0px 30px 40px;
+    position: relative;
+    left: 300px;
+}
+.add {
+   
+    width: 22px;
+    height: 22px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(231, 84, 84);
+    padding: 5px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    left: 810px;
+    top: 390px;
+}
+.back-arrow{
+    color:black;
+    width:18px;
+    height:18px;
+    background-color: rgb(231, 84, 84);
+    border-radius:50%;
+    position:absolute;
+    left:48vw;
+    padding:15px;
+    top:165px;
+}
